@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataBinding</string>
+    <string name="add">Adicionar</string>
+    <string name="digite_um_numero">Digite um numero</string>
+</resources>
